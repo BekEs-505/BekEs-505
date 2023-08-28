@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.raed.net/img?id=344107&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
+  <img src="[https://www.raed.net/img?id=344107](https://steamuserimages-a.akamaihd.net/ugc/1296424172617389859/7C3048CACEB70F421057B42156921F3F1EB330C1/?imw=637)&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
 </p>
 <h3> 🤝🏻 Connect with Me </h3>
 
