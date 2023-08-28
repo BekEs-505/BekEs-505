@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm 𝐁𝐄𝐊𝐄𝐒</h1>
+ <h1 align="center">Hi 👋, I'm 𝐁𝐞𝐤𝐄𝐬</h1>
 <h3 align="center">A passionate fullstack developer from Saudi Arabia</h3>
 
 <p align="left">
@@ -15,4 +15,4 @@
 &nbsp; <a href="mailto:snap.b6.7e@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+⭐️ From [𝐁𝐞𝐤𝐄𝐬](https://github.com/BekEs-505)
