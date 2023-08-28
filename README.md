@@ -1,24 +1,10 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://www.raed.net/img?id=342615" width="30px"></h2>
+![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
 
-<div align="center" width="50">
+The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
+Video about [GitHub Profile README](https://twitter.com/github/status/1294348292130836482?s=20)
 
-<img src="https://www.raed.net/img?id=344098" alt="Welcome!" width="300"/>
+Feel free to add your own or someone else's profile README if you find it super awesome! 
 
-</div>
+Don't forget to leave a if you find this repo useful ⭐
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
-
-Happy Coding! 😊
-
-<div align="center">
-
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
-
-<i>Follow me:</i><br>
-
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
-
-
-⭐ From [BekEs](https://github.com/BekEs-505)
+Thankyou🎆
