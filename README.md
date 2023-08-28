@@ -1,11 +1,11 @@
- <h1 align="center">Hi 👋, I'm BekEs</h1>
+ <h1 align="center">Hi 👋, I'm 𝐁𝐄𝐊𝐄𝐒</h1>
 <h3 align="center">A passionate fullstack developer from Saudi Arabia</h3>
 
 <p align="left">
 </p>
 
 <p align="center">
-  <img src="[https://www.raed.net/img?id=344107](https://steamuserimages-a.akamaihd.net/ugc/1296424172617389859/7C3048CACEB70F421057B42156921F3F1EB330C1/?imw=637)&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1296424172617389859/7C3048CACEB70F421057B42156921F3F1EB330C1/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
 </p>
 <h3> 🤝🏻 Connect with Me </h3>
 
